@@ -1,0 +1,7 @@
+{
+  "devices": [
+    {"hostname": "R1-HQ",   "ip": "192.168.10.1", "type": "Cisco ISR 4331 Router",      "location": "Headquarters", "port": 443, "simulated_status": "UP"},
+    {"hostname": "SW1-HQ",  "ip": "192.168.10.2", "type": "Cisco Catalyst 9300 Switch", "location": "Headquarters", "port": 22,  "simulated_status": "UP"},
+    {"hostname": "R2-BR1",  "ip": "192.168.20.1", "type": "Cisco CSR1000v Router",      "location": "Branch 1",     "port": 443, "simulated_status": "DOWN"}
+  ]
+}
